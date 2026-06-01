@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**hskad2/hskad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daksh
+A Web Developer and UI/UX Designer passionate about creating simple, functional, and user-friendly experiences.
 
-Here are some ideas to get you started:
+### 🚀 Currently
+- Building web applications
+- Learning new technologies
+- Working on personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+React • JavaScript • Tailwind CSS • Figma • Git • VS Code
+
+### 📫 Reach Me
+GitHub: @hskad2  
+Email: dakshp649@gmail.com
+
+> Recently graduated. Still learning. Always creating.
